@@ -2,8 +2,18 @@
 
 <h2>👨‍💻 Cloud/Devops Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+<ul>
+    <li><b>AWS Solutions Architecture</b></li>
+    <li><a href="https://medium.com/@info_37956/simplifying-static-web-hosting-with-amazon-s3-a-hands-on-guide-fbd873b6acdd">Simplifying Static Web Hosting with Amazon S3: A Hands-On Guide</a></li>
+    <li><a href="https://medium.com/@info_37956/deployment-of-an-amazon-rds-multi-az-and-read-replica-in-aws-b1c8f3a76c79">Deployment of an Amazon RDS Multi-AZ and Read Replica in AWS</a></li>
+    <li><a href="https://medium.com/@info_37956/utilize-aws-vpc-flow-logs-to-monitor-network-traffic-dabec829faa4">Utilize AWS VPC Flow Logs to Monitor Network Traffic</a></li>
+    <li><a href="https://medium.com/@info_37956/cloudformation-for-a-retail-company-lab-ca1416c1f548">CloudFormation For a Retail Company: Lab</a></li>
+    <li><a href="https://medium.com/@info_37956/optimizing-e-commerce-performance-with-cloudwatch-alarms-and-auto-scaling-using-sqs-516bf2e672fe">Optimizing E-commerce Performance with CloudWatch Alarms and Auto Scaling Using SQS</a></li>
+    <li><a href="https://medium.com/@info_37956/using-lambda-functions-in-s3-programmatically-82ca76dc11cb">Using Lambda Functions in S3 Programmatically</a></li>
+    <li><a href="https://medium.com/@info_37956/optimizing-e-commerce-performance-with-cloudwatch-alarms-and-auto-scaling-using-sqs-516bf2e672fe">Optimizing E-commerce Performance with CloudWatch Alarms and Auto Scaling Using SQS</a></li>
+    <li><a href="https://medium.com/@info_37956/using-lambda-functions-in-s3-programmatically-82ca76dc11cb">Using Lambda Functions in S3 Programmatically</a></li>
+</ul>
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
