@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cloud/Devops Projects:</h2>
 
 <ul>
-    <li><b>AWS Solutions Architecture</b></li>
+<b>AWS Solutions Architecture:</b>
     <li><a href="https://medium.com/@info_37956/simplifying-static-web-hosting-with-amazon-s3-a-hands-on-guide-fbd873b6acdd">Simplifying Static Web Hosting with Amazon S3: A Hands-On Guide</a></li>
     <li><a href="https://medium.com/@info_37956/deployment-of-an-amazon-rds-multi-az-and-read-replica-in-aws-b1c8f3a76c79">Deployment of an Amazon RDS Multi-AZ and Read Replica in AWS</a></li>
     <li><a href="https://medium.com/@info_37956/utilize-aws-vpc-flow-logs-to-monitor-network-traffic-dabec829faa4">Utilize AWS VPC Flow Logs to Monitor Network Traffic</a></li>
@@ -14,33 +14,42 @@
     <li><a href="https://medium.com/@info_37956/using-lambda-functions-in-s3-programmatically-82ca76dc11cb">Using Lambda Functions in S3 Programmatically</a></li>
 </ul>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
  
 <h2>👨‍💻 Certifications:</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h2>Credentials</h2>
+    <dl>
+        <dt><b>Google IT Support Specialization - Google</b></dt>
+        <dd>Credential ID: AB6KQ5A5MPE4</dd>
+        <dt><b>Prometheus | The Complete Hands-On for Monitoring & Alerting - Udemy</b></dt>
+        <dd>Credential ID: UC-83556853-c5b9-4e46-b40a-e3612bd24240</dd>
+        <dt><b>Microsoft Certified: Azure Fundamentals - Microsoft</b></dt>
+        <dd>Credential ID: I402-6928</dd>
+        <dt><b>Solutions Architect Virtual Experience - Amazon Web Services (AWS)</b></dt>
+        <dd>Credential ID: LeEn5Rn6qMtrLZTua</dd>
+        <dt><b>HashiCorp Certified Terraform Associate - A Cloudguru </b></dt>
+        <dd>Credential ID: F3B8F05EB893</dd>
+    </dl>
+</body>
+</html>
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/ibrahim-cisse-a2b6501a0/" target="_blank">
+    <img align="left" alt="Ibrahim Cisse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/ibrahim-cisse-a2b6501a0/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
