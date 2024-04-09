@@ -44,6 +44,8 @@
         <dd>Credential ID: LeEn5Rn6qMtrLZTua</dd>
         <dt><b>HashiCorp Certified Terraform Associate - A Cloudguru </b></dt>
         <dd>Credential ID: F3B8F05EB893</dd>
+        <dt><b>Certified Data Science Analyst - Corporate Finance Instituite </b></dt>
+        <dd>Credential ID: 95862195</dd>
     </dl>
 </body>
 </html>
