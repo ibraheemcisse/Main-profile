@@ -14,10 +14,8 @@
     <li><a href="https://medium.com/@info_37956/using-lambda-functions-in-s3-programmatically-82ca76dc11cb">Using Lambda Functions in S3 Programmatically</a></li>
 </ul>
 
-<h2>👨‍💻 Linux System Administration Projects:</h2>
-
 <ul>
-<b>AWS Solutions Architecture:</b>
+<b>Linux System Administration Projects:</b>
     <li><a href="https://medium.com/@info_37956/implementing-network-time-protocol-ntp-a-comprehensive-technical-guide-18015c3a1280">Implementing Network Time Protocol (NTP): A Comprehensive Technical Guide</a></li>
     <li><a href="https://medium.com/@info_37956/managing-users-and-permissions-in-linux-a-step-by-step-guide-0c7f620a9b69">Different roles for Users and Permissions in Linux: A Step-by-Step Guide
 </a></li>
