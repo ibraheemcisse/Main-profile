@@ -1,5 +1,7 @@
 <h1>Hi, I'm Ibrahim! <br/><a href="https://github.com/geekachu2">System Support Engineer</a>, <a href="linkedin.com/in/ibrahim-c-a2b6501a0/">Cloud/DevOps Enthusiast</a> <a href="https://www.youtube.com/"></a></h1>
 
+Introduction
+
 <h2>👨‍💻 Cloud/Devops Projects:</h2>
 
 <ul>
@@ -8,8 +10,6 @@
     <li><a href="https://medium.com/@info_37956/deployment-of-an-amazon-rds-multi-az-and-read-replica-in-aws-b1c8f3a76c79">Deployment of an Amazon RDS Multi-AZ and Read Replica in AWS</a></li>
     <li><a href="https://medium.com/@info_37956/utilize-aws-vpc-flow-logs-to-monitor-network-traffic-dabec829faa4">Utilize AWS VPC Flow Logs to Monitor Network Traffic</a></li>
     <li><a href="https://medium.com/@info_37956/cloudformation-for-a-retail-company-lab-ca1416c1f548">CloudFormation For a Retail Company: Lab</a></li>
-    <li><a href="https://medium.com/@info_37956/optimizing-e-commerce-performance-with-cloudwatch-alarms-and-auto-scaling-using-sqs-516bf2e672fe">Optimizing E-commerce Performance with CloudWatch Alarms and Auto Scaling Using SQS</a></li>
-    <li><a href="https://medium.com/@info_37956/using-lambda-functions-in-s3-programmatically-82ca76dc11cb">Using Lambda Functions in S3 Programmatically</a></li>
     <li><a href="https://medium.com/@info_37956/optimizing-e-commerce-performance-with-cloudwatch-alarms-and-auto-scaling-using-sqs-516bf2e672fe">Optimizing E-commerce Performance with CloudWatch Alarms and Auto Scaling Using SQS</a></li>
     <li><a href="https://medium.com/@info_37956/using-lambda-functions-in-s3-programmatically-82ca76dc11cb">Using Lambda Functions in S3 Programmatically</a></li>
 </ul>
@@ -40,8 +40,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h2>Credentials</h2>
-    <dl>
+<h2>Credentials</h2>
+<dl>
         <dt><b>Google IT Support Specialization - Google</b></dt>
         <dd>Credential ID: AB6KQ5A5MPE4</dd>
         <dt><b>Prometheus | The Complete Hands-On for Monitoring & Alerting - Udemy</b></dt>
@@ -54,7 +54,7 @@
         <dd>Credential ID: F3B8F05EB893</dd>
         <dt><b>Certified Data Science Analyst - Corporate Finance Institute </b></dt>
         <dd>Credential ID: 95862195</dd>
-    </dl>
+</dl>
 </body>
 </html>
 
