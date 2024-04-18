@@ -1,7 +1,5 @@
 <h1>Hi, I'm Ibrahim! <br/><a href="https://github.com/geekachu2">System Support Engineer</a>, <a href="linkedin.com/in/ibrahim-c-a2b6501a0/">Cloud/DevOps Enthusiast</a> <a href="https://www.youtube.com/"></a></h1>
 
-Introduction
-
 <h2>👨‍💻 Cloud/Devops Projects:</h2>
 
 <ul>
