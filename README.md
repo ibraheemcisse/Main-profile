@@ -1,5 +1,7 @@
 <h1>Hi, I'm Ibrahim! <br/><a href="https://github.com/geekachu2">System Support Engineer</a>, <a href="linkedin.com/in/ibrahim-c-a2b6501a0/">Cloud/DevOps Enthusiast</a> <a href="https://www.youtube.com/"></a></h1>
 
+As an experienced Financial Trading System Support Engineer, my journey into the world of DevOps and cloud engineering represents a deliberate and structured transition driven by a passion for technology and a desire for professional growth. With a solid foundation in supporting mission-critical trading systems, I am now embarking on a path towards DevOps and cloud engineering, guided by a commitment to structured hands-on learning, relevant certifications, and mentorship from seasoned professionals in the field.
+
 <h2>👨‍💻 Cloud/Devops Projects:</h2>
 
 <ul>
