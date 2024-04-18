@@ -24,7 +24,7 @@ Introduction
     <li><a href="https://medium.com/@info_37956/configuring-dns-for-local-testing-a-technical-guide-48d3758925a8">Configuring DNS for Local Testing: A Technical Guide
     <li><a href="https://medium.com/@info_37956/dns-name-server-hands-on-lab-ac23497af84a">DNS: Name Server Hands-on Lab
     <li><a href="https://medium.com/@info_37956/firewall-traffic-management-e0616bc0b344">Firewall: Network Traffic Management
-
+    <li><a href="https://medium.com/@info_37956/a-comprehensive-guide-to-configuring-firewall-rules-on-centos-92b25138e9b5">A Comprehensive Guide to Configuring Firewall Rules on CentOS
     
 </a></li>
 <ul>
