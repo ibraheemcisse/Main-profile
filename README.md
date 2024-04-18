@@ -18,6 +18,14 @@
 <b>Linux System Administration Projects:</b>
     <li><a href="https://medium.com/@info_37956/implementing-network-time-protocol-ntp-a-comprehensive-technical-guide-18015c3a1280">Implementing Network Time Protocol (NTP): A Comprehensive Technical Guide</a></li>
     <li><a href="https://medium.com/@info_37956/managing-users-and-permissions-in-linux-a-step-by-step-guide-0c7f620a9b69">Different roles for Users and Permissions in Linux: A Step-by-Step Guide
+    <li><a href="https://medium.com/@info_37956/implementing-static-ip-configuration-using-nmcli-on-linux-767fb8c9f8b0">Implementing Static IP Configuration Using nmcli on Linux
+    <li><a href="https://medium.com/@info_37956/implementing-network-teaming-on-a-linux-server-56f30c18646a">Implementing Network Teaming on a Linux Server
+    <li><a href="https://medium.com/@info_37956/implementing-static-ip-configuration-using-nmcli-on-linux-767fb8c9f8b0">Implementing Static IP Configuration Using nmcli on Linux
+    <li><a href="https://medium.com/@info_37956/configuring-dns-for-local-testing-a-technical-guide-48d3758925a8">Configuring DNS for Local Testing: A Technical Guide
+    <li><a href="https://medium.com/@info_37956/dns-name-server-hands-on-lab-ac23497af84a">DNS: Name Server Hands-on Lab
+    <li><a href="https://medium.com/@info_37956/firewall-traffic-management-e0616bc0b344">Firewall: Network Traffic Management
+
+    
 </a></li>
 <ul>
 
@@ -44,7 +52,7 @@
         <dd>Credential ID: LeEn5Rn6qMtrLZTua</dd>
         <dt><b>HashiCorp Certified Terraform Associate - A Cloudguru </b></dt>
         <dd>Credential ID: F3B8F05EB893</dd>
-        <dt><b>Certified Data Science Analyst - Corporate Finance Instituite </b></dt>
+        <dt><b>Certified Data Science Analyst - Corporate Finance Institute </b></dt>
         <dd>Credential ID: 95862195</dd>
     </dl>
 </body>
