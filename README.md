@@ -13,8 +13,8 @@ As an experienced Financial Trading System Support Engineer, my journey into the
     <li><a href="https://medium.com/@info_37956/optimizing-e-commerce-performance-with-cloudwatch-alarms-and-auto-scaling-using-sqs-516bf2e672fe">Optimizing E-commerce Performance with CloudWatch Alarms and Auto Scaling Using SQS</a></li>
     <li><a href="https://medium.com/@info_37956/using-lambda-functions-in-s3-programmatically-82ca76dc11cb">Using Lambda Functions in S3 Programmatically</a></li>
 </ul>
-
 <ul>
+
 <b>Linux System Administration Projects:</b>
     <li><a href="https://medium.com/@info_37956/implementing-network-time-protocol-ntp-a-comprehensive-technical-guide-18015c3a1280">Implementing Network Time Protocol (NTP): A Comprehensive Technical Guide</a></li>
     <li><a href="https://medium.com/@info_37956/managing-users-and-permissions-in-linux-a-step-by-step-guide-0c7f620a9b69">Different roles for Users and Permissions in Linux: A Step-by-Step Guide
@@ -25,6 +25,8 @@ As an experienced Financial Trading System Support Engineer, my journey into the
     <li><a href="https://medium.com/@info_37956/dns-name-server-hands-on-lab-ac23497af84a">DNS: Name Server Hands-on Lab
     <li><a href="https://medium.com/@info_37956/firewall-traffic-management-e0616bc0b344">Firewall: Network Traffic Management
     <li><a href="https://medium.com/@info_37956/a-comprehensive-guide-to-configuring-firewall-rules-on-centos-92b25138e9b5">A Comprehensive Guide to Configuring Firewall Rules on CentOS
+
+
     
 </a></li>
 <ul>
