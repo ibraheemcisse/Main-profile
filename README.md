@@ -14,13 +14,28 @@ As an experienced Financial Trading System Support Engineer, my journey into the
     <li><a href="https://medium.com/@info_37956/using-lambda-functions-in-s3-programmatically-82ca76dc11cb">Using Lambda Functions in S3 Programmatically</a></li>
 </ul>
 <ul>
-
-<b>Linux System Administration Projects:</b>
+<b>Python Projects:</b>
+    <li><a href="https://medium.com/@info_37956/streamlining-forex-profit-calculation-with-python-and-numpy-fe16b0b6bc7e">Streamlining Forex Profit Calculation with Python and Numpy
+</a></li>
+    <li><a href="https://medium.com/@info_37956/optimizing-round-table-packaging-for-abc-e-commerce-fd8f53a520a0">Optimizing Round Table Packaging for ABC E-Commerce
+</a></li>
+<b>DevOps Projects:</b>
+    <li><a href="https://medium.com/@info_37956/creating-a-ci-cd-pipeline-for-a-public-commute-schedule-app-f229c37dfce6">Creating a CI/CD Pipeline for a Public Commute Schedule App
+</a></li>
+    <li><a href="https://medium.com/@info_37956/building-and-deploying-a-node-js-train-schedule-application-using-docker-578c8f4439fa">Building and Deploying a Node.js Train-Schedule Application Using Docker
+    <li><a href="https://medium.com/@info_37956/updating-a-public-commute-schedule-app-a-git-workflow-example-5b0ab879a88b">Updating A Public Commute Schedule App: A Git Workflow Example
+</a></li>
+<b>Microsoft Azure Administration:</b>
+    <li><a href="https://medium.com/@info_37956/guide-to-managing-containerized-applications-in-azure-084989229852">Guide to Managing Containerized Applications in Azure
+</a></li>
+    <li><a href="https://medium.com/@info_37956/deploying-vms-and-load-balancer-in-microsoft-azure-270382986265">Deploying VMs and Load Balancer in Microsoft Azure
+</ul>
+<ul>
+<b>Linux System Administration:</b>
     <li><a href="https://medium.com/@info_37956/implementing-network-time-protocol-ntp-a-comprehensive-technical-guide-18015c3a1280">Implementing Network Time Protocol (NTP): A Comprehensive Technical Guide</a></li>
     <li><a href="https://medium.com/@info_37956/managing-users-and-permissions-in-linux-a-step-by-step-guide-0c7f620a9b69">Different roles for Users and Permissions in Linux: A Step-by-Step Guide
     <li><a href="https://medium.com/@info_37956/implementing-static-ip-configuration-using-nmcli-on-linux-767fb8c9f8b0">Implementing Static IP Configuration Using nmcli on Linux
     <li><a href="https://medium.com/@info_37956/implementing-network-teaming-on-a-linux-server-56f30c18646a">Implementing Network Teaming on a Linux Server
-    <li><a href="https://medium.com/@info_37956/implementing-static-ip-configuration-using-nmcli-on-linux-767fb8c9f8b0">Implementing Static IP Configuration Using nmcli on Linux
     <li><a href="https://medium.com/@info_37956/configuring-dns-for-local-testing-a-technical-guide-48d3758925a8">Configuring DNS for Local Testing: A Technical Guide
     <li><a href="https://medium.com/@info_37956/dns-name-server-hands-on-lab-ac23497af84a">DNS: Name Server Hands-on Lab
     <li><a href="https://medium.com/@info_37956/firewall-traffic-management-e0616bc0b344">Firewall: Network Traffic Management
