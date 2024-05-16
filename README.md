@@ -31,6 +31,10 @@ As an experienced Financial Trading System Support Engineer, my journey into the
     <li><a href="https://medium.com/@info_37956/deploying-vms-and-load-balancer-in-microsoft-azure-270382986265">Deploying VMs and Load Balancer in Microsoft Azure
 </ul>
 <ul>
+<b>PostgreSQL Administration:</b>
+    <li><a href="https://medium.com/@info_37956/deploying-vms-and-load-balancer-in-microsoft-azure-270382986265">Guide to handling Data in PostgreSQL
+</ul>
+<ul>
 <b>Linux System Administration:</b>
     <li><a href="https://medium.com/@info_37956/implementing-network-time-protocol-ntp-a-comprehensive-technical-guide-18015c3a1280">Implementing Network Time Protocol (NTP): A Comprehensive Technical Guide</a></li>
     <li><a href="https://medium.com/@info_37956/managing-users-and-permissions-in-linux-a-step-by-step-guide-0c7f620a9b69">Different roles for Users and Permissions in Linux: A Step-by-Step Guide
