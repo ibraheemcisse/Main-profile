@@ -16,13 +16,10 @@ As an experienced Financial Trading System Support Engineer, my journey into the
     <li><a href="https://medium.com/@info_37956/deploying-a-flask-application-on-google-kubernetes-engine-gke-e143c8c14d66">Deploying a Flask Application on Google Kubernetes Engine (GKE)</a></li>
 </ul>
 <ul>
-<b>Development Projects:</b>
-    <li><a href="https://github.com/ibraheemcisse/Rock-Paper-Scissors">Deploying a Flask Rock-Paper-Scissors Game to Heroku</a></li>
-</ul>
-<ul>
 <b>Python Projects:</b>
     <li><a href="https://medium.com/@info_37956/streamlining-forex-profit-calculation-with-python-and-numpy-fe16b0b6bc7e">Streamlining Forex Profit Calculation with Python and Numpy
 </a></li>
+    <li><a href="https://github.com/ibraheemcisse/Rock-Paper-Scissors">Deploying a Flask Rock-Paper-Scissors Game to Heroku</a></li>
     <li><a href="https://medium.com/@info_37956/optimizing-round-table-packaging-for-abc-e-commerce-fd8f53a520a0">Optimizing Round Table Packaging for ABC E-Commerce
 </a></li>
 <b>DevOps Projects:</b>
