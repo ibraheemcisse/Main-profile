@@ -16,18 +16,6 @@ As an experienced Financial Trading System Support Engineer, my journey into the
     <li><a href="https://medium.com/@info_37956/deploying-a-flask-application-on-google-kubernetes-engine-gke-e143c8c14d66">Deploying a Flask Application on Google Kubernetes Engine (GKE)</a></li>
 </ul>
 <ul>
-<b>Python Projects:</b>
-    <li><a href="https://medium.com/@info_37956/streamlining-forex-profit-calculation-with-python-and-numpy-fe16b0b6bc7e">Streamlining Forex Profit Calculation with Python and Numpy
-</a></li>
-    <li><a href="https://github.com/ibraheemcisse/Rock-Paper-Scissors">Deploying a Flask Rock-Paper-Scissors Game to Heroku</a></li>
-    <li><a href="https://medium.com/@info_37956/optimizing-round-table-packaging-for-abc-e-commerce-fd8f53a520a0">Optimizing Round Table Packaging for ABC E-Commerce
-</a></li>
-<b>DevOps Projects:</b>
-    <li><a href="https://medium.com/@info_37956/creating-a-ci-cd-pipeline-for-a-public-commute-schedule-app-f229c37dfce6">Creating a CI/CD Pipeline for a Public Commute Schedule App
-</a></li>
-    <li><a href="https://medium.com/@info_37956/building-and-deploying-a-node-js-train-schedule-application-using-docker-578c8f4439fa">Building and Deploying a Node.js Train-Schedule Application Using Docker
-    <li><a href="https://medium.com/@info_37956/updating-a-public-commute-schedule-app-a-git-workflow-example-5b0ab879a88b">Updating A Public Commute Schedule App: A Git Workflow Example
-</a></li>
 <b>Microsoft Azure Administration:</b>
     <li><a href="https://medium.com/@info_37956/guide-to-managing-containerized-applications-in-azure-084989229852">Guide to Managing Containerized Applications in Azure
 </a></li>
