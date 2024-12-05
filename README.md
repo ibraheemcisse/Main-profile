@@ -69,6 +69,8 @@ As an experienced Financial Trading System Support Engineer, my journey into the
         <dd>Credential ID: F3B8F05EB893</dd>
         <dt><b>Certified Data Science Analyst - Corporate Finance Institute </b></dt>
         <dd>Credential ID: 95862195</dd>
+        <dt><b>Containerized Applications on AWS - Amazon Web Services </b></dt>
+        <dd>Credential ID: NQL28VG96L3V</dd>   
 </dl>
 </body>
 </html>
