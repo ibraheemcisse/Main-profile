@@ -24,6 +24,7 @@ As an experienced Financial Trading System Support Engineer, my journey into the
 <ul>
 <b>Kubernetes Projects:</b>
     <li><a href="https://medium.com/@info_37956/comprehensive-guide-deploying-a-web-app-on-minikube-with-port-forwarding-and-ingress-0d9361a27dc2">Deploying a Web App on Minikube with Port Forwarding and Ingress
+    <li><a href="https://github.com/ibraheemcisse/Python-Application-Deployment-on-Amazon-Elastic-Kubernetes-Service-EKS-/blob/master/README.md">Python Application Deployment on EKS
     <li><a href="https://medium.com/@info_37956/setting-up-and-troubleshooting-hpa-and-vpa-in-kubernetes-593aac3ddb9f">Setting Up and Troubleshooting HPA and VPA in Kubernetes
     <li><a href="https://medium.com/@info_37956/minikube-setting-up-metrics-server-rbac-and-kubectl-context-2ea89ec6d07f">Minikube: Setting Up Metrics Server, RBAC, and Kubectl Context
 </a></li>
