@@ -12,6 +12,7 @@ As an experienced Financial Trading System Support Engineer, my journey into the
     <li><a href="https://medium.com/@info_37956/cloudformation-for-a-retail-company-lab-ca1416c1f548">CloudFormation For a Retail Company: Lab</a></li>
     <li><a href="https://medium.com/@info_37956/optimizing-e-commerce-performance-with-cloudwatch-alarms-and-auto-scaling-using-sqs-516bf2e672fe">Optimizing E-commerce Performance with CloudWatch Alarms and Auto Scaling Using SQS</a></li>
     <li><a href="https://medium.com/@info_37956/using-lambda-functions-in-s3-programmatically-82ca76dc11cb">Using Lambda Functions in S3 Programmatically</a></li>
+    
 <b>Google Cloud Platform Projects:</b>
     <li><a href="https://medium.com/@info_37956/deploying-a-flask-application-on-google-kubernetes-engine-gke-e143c8c14d66">Deploying a Flask Application on Google Kubernetes Engine (GKE)</a></li>
 </ul>
