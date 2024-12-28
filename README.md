@@ -27,7 +27,9 @@ As an experienced Financial Trading System Support Engineer, my journey into the
     <li><a href="https://github.com/ibraheemcisse/Python-Application-Deployment-on-Amazon-Elastic-Kubernetes-Service-EKS-/blob/master/README.md">Python Application Deployment on EKS
     <li><a href="https://medium.com/@info_37956/setting-up-and-troubleshooting-hpa-and-vpa-in-kubernetes-593aac3ddb9f">Setting Up and Troubleshooting HPA and VPA in Kubernetes
     <li><a href="https://medium.com/@info_37956/minikube-setting-up-metrics-server-rbac-and-kubectl-context-2ea89ec6d07f">Minikube: Setting Up Metrics Server, RBAC, and Kubectl Context
-</a></li>
+    <li><a href="https://medium.com/@info_37956/minikube-setting-up-metrics-server-rbac-and-kubectl-context-2ea89ec6d07f">Minikube: Setting Up Metrics Server, RBAC, and Kubectl Context
+
+    </a></li>
 </ul>
 <ul>
 <b>Linux System Administration:</b>
@@ -38,7 +40,8 @@ As an experienced Financial Trading System Support Engineer, my journey into the
     <li><a href="https://medium.com/@info_37956/configuring-dns-for-local-testing-a-technical-guide-48d3758925a8">Configuring DNS for Local Testing: A Technical Guide
     <li><a href="https://medium.com/@info_37956/dns-name-server-hands-on-lab-ac23497af84a">DNS: Name Server Hands-on Lab
     <li><a href="https://medium.com/@info_37956/firewall-traffic-management-e0616bc0b344">Firewall: Network Traffic Management
-    <li><a href="https://medium.com/@info_37956/a-comprehensive-guide-to-configuring-firewall-rules-on-centos-92b25138e9b5">A Comprehensive Guide to Configuring Firewall Rules on CentOS
+    <li><a href="https://github.com/ibraheemcisse/EKS-Automode-game-deployment">Deploy a 2048 Game Application on Amazon EKS
+
 
 
     
