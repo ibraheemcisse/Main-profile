@@ -27,7 +27,6 @@ As an experienced Financial Trading System Support Engineer, my journey into the
     <li><a href="https://github.com/ibraheemcisse/Python-Application-Deployment-on-Amazon-Elastic-Kubernetes-Service-EKS-/blob/master/README.md">Python Application Deployment on EKS
     <li><a href="https://medium.com/@info_37956/setting-up-and-troubleshooting-hpa-and-vpa-in-kubernetes-593aac3ddb9f">Setting Up and Troubleshooting HPA and VPA in Kubernetes
     <li><a href="https://medium.com/@info_37956/minikube-setting-up-metrics-server-rbac-and-kubectl-context-2ea89ec6d07f">Minikube: Setting Up Metrics Server, RBAC, and Kubectl Context
-    <li><a href="https://medium.com/@info_37956/minikube-setting-up-metrics-server-rbac-and-kubectl-context-2ea89ec6d07f">Minikube: Setting Up Metrics Server, RBAC, and Kubectl Context
     <li><a href="https://github.com/ibraheemcisse/KEDA-HTTP-Add-On-with-Autoscaling-on-Kubernetes-EKS-">KEDA HTTP-Add-On with Autoscaling on kubernetes EKS
     <li><a href="https://github.com/ibraheemcisse/EKS-Automode-game-deployment">Deploy a 2048 Game Application on Amazon EKS
     </a></li>
