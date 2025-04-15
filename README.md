@@ -1,4 +1,9 @@
-<h1>Hi, I'm Ibrahim! <br/><a href="https://github.com/geekachu2">System Support Engineer</a>, <a href="linkedin.com/in/ibrahim-c-a2b6501a0/">Cloud/DevOps Enthusiast</a> <a href="https://www.youtube.com/"></a></h1>
+<h1>Hi, I'm Ibrahim! <br/><a href="https://github.com/ibraheemcisse">System Support Engineer</a>, <a href="linkedin.com/in/ibrahim-c-a2b6501a0/">Cloud/DevOps Enthusiast</a> <a href="https://www.youtube.com/"></a></h1>
+
+## 🎮 Why I Built This Portfolio
+
+Most portfolios are scroll-and-skim. I wanted to break the mold and create something interactive and playful that reflects my personality and creativity. That’s why I built [this 2D game-style site](https://jslegenddev.github.io/2d-portfolio-kaboom/) using [Kaboom.js](https://kaboomjs.com), a JavaScript game development library.
+
 
 As an experienced Financial Trading System Support Engineer, my journey into the world of DevOps and cloud engineering represents a deliberate and structured transition driven by a passion for technology and a desire for professional growth. With a solid foundation in supporting mission-critical trading systems, I am now embarking on a path towards DevOps and cloud engineering, guided by a commitment to structured hands-on learning, relevant certifications, and mentorship from seasoned professionals in the field.
 
