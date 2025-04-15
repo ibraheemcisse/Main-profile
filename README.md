@@ -1,6 +1,5 @@
 <h1>Hi, I'm Ibrahim! <br/><a href="https://github.com/ibraheemcisse">System Support Engineer</a>, <a href="linkedin.com/in/ibrahim-c-a2b6501a0/">Cloud/DevOps Enthusiast</a> <a href="https://www.youtube.com/"></a></h1>
 
-## 🎮 Why I Built This Portfolio
 
 Most portfolios are scroll-and-skim. I wanted to break the mold and create something interactive and playful that reflects my personality and creativity. That’s why I built [this 2D game-style site](https://jslegenddev.github.io/2d-portfolio-kaboom/) using [Kaboom.js](https://kaboomjs.com), a JavaScript game development library.
 
