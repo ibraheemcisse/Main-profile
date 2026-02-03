@@ -1,106 +1,227 @@
-<h1>Hi, I'm Ibrahim! <br/><a href="https://github.com/ibraheemcisse">System Support Engineer</a>, <a href="linkedin.com/in/ibrahim-c-a2b6501a0/">Cloud/DevOps Enthusiast</a> <a href="https://www.youtube.com/"></a></h1>
-
-
-Most portfolios are scroll-and-skim. I wanted to break the mold and create something interactive and playful that reflects my personality and creativity. That’s why I built [this 2D game-style site](https://jslegenddev.github.io/2d-portfolio-kaboom/) using [Kaboom.js](https://kaboomjs.com), a JavaScript game development library.
-
-
-As an experienced Financial Trading System Support Engineer, my journey into the world of DevOps and cloud engineering represents a deliberate and structured transition driven by a passion for technology and a desire for professional growth. With a solid foundation in supporting mission-critical trading systems, I am now embarking on a path towards DevOps and cloud engineering, guided by a commitment to structured hands-on learning, relevant certifications, and mentorship from seasoned professionals in the field.
-
-<h2>👨‍💻 Cloud/Devops Projects:</h2>
-
-<ul>
-<b>AWS Solutions Architecture:</b>
-    <li><a href="https://medium.com/@info_37956/simplifying-static-web-hosting-with-amazon-s3-a-hands-on-guide-fbd873b6acdd">Simplifying Static Web Hosting with Amazon S3: A Hands-On Guide</a></li>
-    <li><a href="https://medium.com/@info_37956/deployment-of-an-amazon-rds-multi-az-and-read-replica-in-aws-b1c8f3a76c79">Deployment of an Amazon RDS Multi-AZ and Read Replica in AWS</a></li>
-    <li><a href="https://medium.com/@info_37956/utilize-aws-vpc-flow-logs-to-monitor-network-traffic-dabec829faa4">Utilize AWS VPC Flow Logs to Monitor Network Traffic</a></li>
-    <li><a href="https://medium.com/@info_37956/cloudformation-for-a-retail-company-lab-ca1416c1f548">CloudFormation For a Retail Company: Lab</a></li>
-    <li><a href="https://medium.com/@info_37956/optimizing-e-commerce-performance-with-cloudwatch-alarms-and-auto-scaling-using-sqs-516bf2e672fe">Optimizing E-commerce Performance with CloudWatch Alarms and Auto Scaling Using SQS</a></li>
-    <li><a href="https://medium.com/@info_37956/using-lambda-functions-in-s3-programmatically-82ca76dc11cb">Using Lambda Functions in S3 Programmatically</a></li>    
-<b>Google Cloud Platform Projects:</b>
-    <li><a href="https://medium.com/@info_37956/deploying-a-flask-application-on-google-kubernetes-engine-gke-e143c8c14d66">Deploying a Flask Application on Google Kubernetes Engine (GKE)</a></li>
-</ul>
-<ul>
-<b>Microsoft Azure Administration:</b>
-    <li><a href="https://medium.com/@info_37956/guide-to-managing-containerized-applications-in-azure-084989229852">Guide to Managing Containerized Applications in Azure
-</a></li>
-    <li><a href="https://medium.com/@info_37956/deploying-vms-and-load-balancer-in-microsoft-azure-270382986265">Deploying VMs and Load Balancer in Microsoft Azure
-</ul>
-<ul>
-<b>Kubernetes Projects:</b>
-    <li><a href="https://medium.com/@info_37956/comprehensive-guide-deploying-a-web-app-on-minikube-with-port-forwarding-and-ingress-0d9361a27dc2">Deploying a Web App on Minikube with Port Forwarding and Ingress
-    <li><a href="https://github.com/ibraheemcisse/Python-Application-Deployment-on-Amazon-Elastic-Kubernetes-Service-EKS-/blob/master/README.md">Python Application Deployment on EKS
-    <li><a href="https://medium.com/@info_37956/setting-up-and-troubleshooting-hpa-and-vpa-in-kubernetes-593aac3ddb9f">Setting Up and Troubleshooting HPA and VPA in Kubernetes
-    <li><a href="https://medium.com/@info_37956/minikube-setting-up-metrics-server-rbac-and-kubectl-context-2ea89ec6d07f">Minikube: Setting Up Metrics Server, RBAC, and Kubectl Context
-    <li><a href="https://github.com/ibraheemcisse/KEDA-HTTP-Add-On-with-Autoscaling-on-Kubernetes-EKS-">KEDA HTTP-Add-On with Autoscaling on kubernetes EKS
-    <li><a href="https://github.com/ibraheemcisse/EKS-Automode-game-deployment">Deploy a 2048 Game Application on Amazon EKS
-    </a></li>
-</ul>
-<ul>
-<b>Linux System Administration:</b>
-    <li><a href="https://medium.com/@info_37956/implementing-network-time-protocol-ntp-a-comprehensive-technical-guide-18015c3a1280">Implementing Network Time Protocol (NTP): A Comprehensive Technical Guide</a></li>
-    <li><a href="https://medium.com/@info_37956/managing-users-and-permissions-in-linux-a-step-by-step-guide-0c7f620a9b69">Different roles for Users and Permissions in Linux: A Step-by-Step Guide
-    <li><a href="https://medium.com/@info_37956/implementing-static-ip-configuration-using-nmcli-on-linux-767fb8c9f8b0">Implementing Static IP Configuration Using nmcli on Linux
-    <li><a href="https://medium.com/@info_37956/implementing-network-teaming-on-a-linux-server-56f30c18646a">Implementing Network Teaming on a Linux Server
-    <li><a href="https://medium.com/@info_37956/configuring-dns-for-local-testing-a-technical-guide-48d3758925a8">Configuring DNS for Local Testing: A Technical Guide
-    <li><a href="https://medium.com/@info_37956/dns-name-server-hands-on-lab-ac23497af84a">DNS: Name Server Hands-on Lab
-    <li><a href="https://medium.com/@info_37956/firewall-traffic-management-e0616bc0b344">Firewall: Network Traffic Management
-
-</a></li>
-<ul>
-
-
-
- 
-<h2>👨‍💻 Certifications:</h2>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ibrahim Cisse - Infrastructure Engineer</title>
 </head>
 <body>
-<h2>Credentials</h2>
+
+<h1>Hi, I'm Ibrahim! <br/>
+<a href="https://github.com/ibraheemcisse">Infrastructure Engineer</a>, 
+<a href="https://linkedin.com/in/ibrahim-c-a2b6501a0/">Platform & SRE</a>
+</h1>
+
+<p>
+I build infrastructure and then intentionally break it to understand how it fails.
+</p>
+
+<p>
+4 years operating production systems in fintech (AWS, 99.9% uptime). Built a 
+Kubernetes cluster from bare metal and chaos-tested it - node failures, memory 
+exhaustion, pod crashes. One test revealed that local storage creates a 25-hour 
+outage scenario. Documented everything in SRE-style postmortems.
+</p>
+
+<p>
+I also participated in an AWS-funded proof of concept where I built the same 
+application 4 times with different infrastructure. Load tested 239,000+ requests. 
+Found that Kubernetes cost 5x more than Fargate with worse latency for single 
+applications. That's engineering judgment.
+</p>
+
+<p>
+Tech: Kubernetes, AWS, Terraform, Chaos Engineering, Production Operations<br/>
+Open to: Platform Engineer, SRE, Infrastructure Engineer roles
+</p>
+
+---
+
+<h2>🎬 Video Walkthrough</h2>
+<ul>
+    <li><a href="[YouTube link]">8-Minute Infrastructure Lab Demo - Chaos Engineering in Action</a></li>
+    <li>Watch me build, deploy, and intentionally break a Kubernetes cluster</li>
+</ul>
+
+---
+
+<h2>🏗️ Infrastructure Projects</h2>
+
+<ul>
+<b>Production Kubernetes Lab - Chaos Engineering:</b>
+    <li><a href="https://github.com/ibraheemcisse/infrastructure-lab">
+        Bare Metal Kubernetes with Security Hardening & Chaos Tests</a></li>
+    <li>Built 3-node cluster (Terraform + Kubespray)</li>
+    <li>Security: Non-root containers, read-only FS, RBAC, NetworkPolicies</li>
+    <li>Chaos tests: Node failure (25h outage), Memory OOM, Pod crashes</li>
+    <li>Observability: Prometheus + Grafana + postgres_exporter</li>
+    <li>Key finding: Local storage creates single point of failure</li>
+</ul>
+
+<ul>
+<b>AWS Infrastructure Trade-offs Analysis:</b>
+    <li><a href="https://github.com/ibraheemcisse/devops-dashboard">
+        Same App, 4 Architectures - Cost vs Performance Study</a></li>
+    <li>AWS Lift program funded ($550 credits)</li>
+    <li>Built: Single EC2 → Load-balanced → ECS Fargate → Kubernetes + Istio</li>
+    <li>Load tested: 239,000+ requests across 5 days</li>
+    <li>Result: Fargate optimal ($2/day vs K8s $11/day, lower latency)</li>
+    <li><a href="[Medium article link]">Read the full write-up</a></li>
+</ul>
+
+<ul>
+<b>Kubernetes Automation & Operations:</b>
+    <li><a href="https://github.com/ibraheemcisse/multi-node-kubernetes-cluster">
+        Multi-node Kubernetes with Terraform</a></li>
+    <li><a href="https://github.com/ibraheemcisse/KEDA-HTTP-Add-On-with-Autoscaling-on-Kubernetes-EKS-">
+        KEDA HTTP Autoscaling on EKS</a></li>
+    <li><a href="https://github.com/ibraheemcisse/End-to-end-k8s-Microservice-application-deployment">
+        End-to-End Microservices Deployment</a></li>
+    <li><a href="https://github.com/ibraheemcisse/kubernetes-cluster-upgrade">
+        Kubernetes Cluster Upgrade Procedures</a></li>
+</ul>
+
+<ul>
+<b>AWS Cloud Architecture:</b>
+    <li><a href="https://github.com/ibraheemcisse/AWS-VPC-Setup-Guide-Production-Ready-Infrastructure">
+        Production-Ready AWS VPC Architecture</a></li>
+</ul>
+
+<ul>
+<b>Operations & Monitoring:</b>
+    <li><a href="https://github.com/ibraheemcisse/System_Health_Check">
+        System Health Check Automation</a></li>
+    <li><a href="https://github.com/ibraheemcisse/Network_Diagnostic_Script">
+        Network Diagnostic Tool (Recognized by Datadog engineers)</a></li>
+</ul>
+
+---
+
+<h2>📝 Technical Writing</h2>
+
+<ul>
+<b>Infrastructure & Architecture:</b>
+    <li><a href="[Medium link]">Building the Same App Four Times: Infrastructure Trade-offs</a></li>
+    <li><a href="[Medium link]">When Your Database Node Dies: A 25-Hour Kubernetes Story</a></li>
+</ul>
+
+<ul>
+<b>Kubernetes Deep Dives:</b>
+    <li><a href="https://medium.com/@info_37956/deploying-a-flask-application-on-google-kubernetes-engine-gke-e143c8c14d66">
+        Deploying Flask on GKE</a></li>
+    <li><a href="https://medium.com/@info_37956/setting-up-and-troubleshooting-hpa-and-vpa-in-kubernetes-593aac3ddb9f">
+        HPA and VPA Troubleshooting</a></li>
+    <li><a href="https://medium.com/@info_37956/minikube-setting-up-metrics-server-rbac-and-kubectl-context-2ea89ec6d07f">
+        Metrics Server and RBAC Setup</a></li>
+</ul>
+
+<ul>
+<b>AWS Solutions:</b>
+    <li><a href="https://medium.com/@info_37956/deployment-of-an-amazon-rds-multi-az-and-read-replica-in-aws-b1c8f3a76c79">
+        RDS Multi-AZ and Read Replicas</a></li>
+    <li><a href="https://medium.com/@info_37956/cloudformation-for-a-retail-company-lab-ca1416c1f548">
+        CloudFormation Infrastructure as Code</a></li>
+    <li><a href="https://medium.com/@info_37956/utilize-aws-vpc-flow-logs-to-monitor-network-traffic-dabec829faa4">
+        VPC Flow Logs for Network Monitoring</a></li>
+</ul>
+
+---
+
+<h2>📊 Chaos Engineering Postmortems</h2>
+
+<p>All failure scenarios documented with root cause analysis:</p>
+
+<ol>
+    <li><a href="https://github.com/ibraheemcisse/infrastructure-lab/blob/main/postmortems/005-pod-crashloop-chaos.md">
+        Pod CrashLoopBackOff During Rolling Update</a></li>
+    <li><a href="https://github.com/ibraheemcisse/infrastructure-lab/blob/main/postmortems/006-node-failure-storage-affinity.md">
+        Node Failure with Local Storage (25-hour outage)</a></li>
+    <li><a href="https://github.com/ibraheemcisse/infrastructure-lab/blob/main/postmortems/007-statefulset-migration.md">
+        StatefulSet Migration</a></li>
+    <li><a href="https://github.com/ibraheemcisse/infrastructure-lab/blob/main/postmortems/008-memory-oom-chaos.md">
+        Memory OOM Kill</a></li>
+    <li>PostgreSQL Monitoring Setup</li>
+</ol>
+
+---
+
+<h2>💼 Professional Experience</h2>
+
 <dl>
-        <dt><b>Google IT Support Specialization - Google</b></dt>
-        <dd>Credential ID: AB6KQ5A5MPE4</dd>
-        <dt><b>Prometheus | The Complete Hands-On for Monitoring & Alerting - Udemy</b></dt>
-        <dd>Credential ID: UC-83556853-c5b9-4e46-b40a-e3612bd24240</dd>
-        <dt><b>Microsoft Certified: Azure Fundamentals - Microsoft</b></dt>
-        <dd>Credential ID: I402-6928</dd>
-        <dt><b>Solutions Architect Virtual Experience - Amazon Web Services (AWS)</b></dt>
-        <dd>Credential ID: LeEn5Rn6qMtrLZTua</dd>
-        <dt><b>HashiCorp Certified Terraform Associate - A Cloudguru </b></dt>
-        <dd>Credential ID: F3B8F05EB893</dd>
-        <dt><b>Certified Data Science Analyst - Corporate Finance Institute </b></dt>
-        <dd>Credential ID: 95862195</dd>
-        <dt><b>Containerized Applications on AWS - Amazon Web Services </b></dt>
-        <dd>Credential ID: NQL28VG96L3V</dd>   
+    <dt><b>Shift Markets - Infrastructure Operations Engineer L3</b></dt>
+    <dd>July 2024 – Present</dd>
+    <dd>• Designed SRE framework reducing incidents 40%, MTTR 30%</dd>
+    <dd>• Operated 30-40 production AWS servers (99.9% uptime)</dd>
+    <dd>• Reduced AWS costs 15% through optimization</dd>
+    <dd>• 3x weekly on-call rotation</dd>
+    
+    <dt><b>Exness - Infrastructure Operations Engineer</b></dt>
+    <dd>March 2023 – March 2024</dd>
+    <dd>• Migrated 11,000 accounts across AWS/Azure (zero complaints)</dd>
+    <dd>• Built automation reducing resolution time from 2hrs to 15min</dd>
+    <dd>• Supported 10,000+ concurrent traders</dd>
 </dl>
-</body>
-</html>
 
+---
 
+<h2>🎓 Education & Certifications</h2>
 
+<dl>
+    <dt><b>Bachelor of Engineering (Hons)</b></dt>
+    <dd>Electronic and Communication Engineering - Anglia Ruskin University</dd>
+    
+    <dt><b>Certified Kubernetes Administrator (CKA)</b></dt>
+    <dd>Scheduled: April 2026</dd>
+    
+    <dt><b>Microsoft Certified: Azure Fundamentals (AZ-900)</b></dt>
+    <dd>Credential ID: I402-6928</dd>
+    
+    <dt><b>Google IT Support Professional Certification</b></dt>
+    <dd>Credential ID: AB6KQ5A5MPE4</dd>
+    
+    <dt><b>Prometheus Monitoring & Alerting</b></dt>
+    <dd>Credential ID: UC-83556853-c5b9-4e46-b40a-e3612bd24240</dd>
+    
+    <dt><b>HashiCorp Certified Terraform Associate</b></dt>
+    <dd>Credential ID: F3B8F05EB893</dd>
+</dl>
 
-<h2> 🤳 Connect with me:</h2>
+---
+
+<h2>🛠️ Technical Skills</h2>
+
+<p><b>Cloud & Infrastructure:</b> AWS (EC2, ECS, VPC, RDS, S3), Azure, Terraform, Ansible</p>
+<p><b>Kubernetes:</b> Cluster operations, Kubespray, EKS, StatefulSets, RBAC, Security contexts, Helm, KEDA</p>
+<p><b>Observability:</b> Prometheus, Grafana, PagerDuty, CloudWatch</p>
+<p><b>Operations:</b> Linux systems, On-call rotations, Incident response, Chaos engineering</p>
+<p><b>Networking:</b> TCP/IP, DNS, Load balancers, Network diagnostics</p>
+<p><b>Databases:</b> PostgreSQL, MySQL, Redis</p>
+<p><b>CI/CD:</b> GitHub Actions, Jenkins, ArgoCD</p>
+<p><b>Scripting:</b> Bash, Python, SQL</p>
+
+---
+
+<h2>🤳 Connect With Me</h2>
 
 <a href="https://www.linkedin.com/in/ibrahim-cisse-a2b6501a0/" target="_blank">
-    <img align="left" alt="Ibrahim Cisse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="Ibrahim Cisse | LinkedIn" width="22px" 
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/ibraheemcisse" target="_blank">
+    <img align="left" alt="Ibrahim Cisse | GitHub" width="22px" 
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="mailto:ibrahim.umar.cisse@gmail.com">
+    <img align="left" alt="Ibrahim Cisse | Email" width="22px" 
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/ibrahim-cisse-a2b6501a0/)
+<br/><br/>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Open to Platform Engineer, SRE, and Infrastructure Engineer roles.<br/>
+All code is open source. All failures are documented. All lessons are shared.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
+</html>
