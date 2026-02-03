@@ -145,25 +145,6 @@ Open to: Platform Engineer, SRE, Infrastructure Engineer roles
 
 ---
 
-<h2>💼 Professional Experience</h2>
-
-<dl>
-    <dt><b>Shift Markets - Infrastructure Operations Engineer L3</b></dt>
-    <dd>July 2024 – Present</dd>
-    <dd>• Designed SRE framework reducing incidents 40%, MTTR 30%</dd>
-    <dd>• Operated 30-40 production AWS servers (99.9% uptime)</dd>
-    <dd>• Reduced AWS costs 15% through optimization</dd>
-    <dd>• 3x weekly on-call rotation</dd>
-    
-    <dt><b>Exness - Infrastructure Operations Engineer</b></dt>
-    <dd>March 2023 – March 2024</dd>
-    <dd>• Migrated 11,000 accounts across AWS/Azure (zero complaints)</dd>
-    <dd>• Built automation reducing resolution time from 2hrs to 15min</dd>
-    <dd>• Supported 10,000+ concurrent traders</dd>
-</dl>
-
----
-
 <h2>🎓 Education & Certifications</h2>
 
 <dl>
