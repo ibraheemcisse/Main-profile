@@ -96,7 +96,17 @@
     .exp-bullets li { font-size: 12px; color: #9ab0bf; line-height: 1.65; padding-left: 18px; position: relative; }
     .exp-bullets li::before { content: '→'; position: absolute; left: 0; color: var(--accent2); font-size: 11px; top: 1px; }
     .exp-bullets li strong { color: var(--text); }
-    .exp-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 16px; }
+    .exp-section-title {
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin: 18px 0 10px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid rgba(0,212,255,0.1);
+    }
+    .exp-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 20px; }
 
     /* ── PROJECT CARDS ── */
     .project-grid { display: grid; gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 4px; overflow: hidden; }
@@ -205,17 +215,18 @@
       </p>
 
       <div class="header-stats fade-up d5">
-        <div class="stat"><span class="stat-num">4 yrs</span><span class="stat-label">Fintech Prod Ops</span></div>
-        <div class="stat"><span class="stat-num">99.9%</span><span class="stat-label">Uptime SLA</span></div>
+        <div class="stat"><span class="stat-num">40%</span><span class="stat-label">Incidents Reduced</span></div>
+        <div class="stat"><span class="stat-num">30%</span><span class="stat-label">MTTR Improved</span></div>
         <div class="stat"><span class="stat-num">11K+</span><span class="stat-label">Accounts Migrated</span></div>
-        <div class="stat"><span class="stat-num">5</span><span class="stat-label">Chaos Postmortems</span></div>
+        <div class="stat"><span class="stat-num">80%</span><span class="stat-label">Server Load Cut</span></div>
+        <div class="stat"><span class="stat-num">90%</span><span class="stat-label">Backend Deps Removed</span></div>
       </div>
 
       <div class="header-links fade-up d6">
         <a href="https://github.com/ibraheemcisse" target="_blank" class="btn btn-primary">↗ GitHub</a>
         <a href="https://www.youtube.com/watch?v=4DzHJQIVU0g&t=2s" target="_blank" class="btn btn-video">▶ 8-Min Chaos Demo</a>
         <a href="https://linkedin.com/in/ibrahim-cisse-a2b6501a0/" target="_blank" class="btn btn-secondary">LinkedIn</a>
-        <a href="mailto:ibrahim.umar.cisse@gmail.com" class="btn btn-secondary">Email</a>
+        <a href="/cdn-cgi/l/email-protection#ff969d8d9e979692d18a929e8dd19c968c8c9abf98929e9693d19c9092" class="btn btn-secondary">Email</a>
       </div>
     </header>
 
@@ -224,45 +235,83 @@
       <div class="section-label">Professional Experience</div>
       <div class="exp-list">
 
+        <!-- SHIFT MARKETS -->
         <div class="exp-card">
           <div class="exp-top">
             <span class="exp-role">Infrastructure Support Engineer</span>
-            <span class="exp-period"><!-- e.g. 2022 – Present --></span>
+            <span class="exp-period">July 2024 – Present</span>
           </div>
           <div class="exp-company">Shift Markets</div>
+
+          <div class="exp-section-title">Infrastructure Operations & High Availability</div>
           <ul class="exp-bullets">
-            <li>Escalation point for trading infrastructure incidents — triaged and resolved issues affecting live brokerage systems</li>
-            <li><strong>Reduced repeat escalations by [X]%</strong> through root cause analysis and systematic post-incident improvements</li>
-            <li><strong>Improved MTTR by [X]%</strong> by automating diagnostic workflows and standardising runbooks</li>
-            <li>Conducted post-incident reviews and documented failure patterns to drive proactive reliability improvements</li>
-            <li>Collaborated directly with DevOps and infrastructure teams on platform stability initiatives</li>
+            <li>Managed <strong>30–40 distributed production servers</strong> powering dual fintech platforms: a low-latency trading system and a white-label crypto microservices platform</li>
+            <li>Maintained data feeds, gateways, compression scripts, and client configurations across a <strong>multi-AZ architecture</strong></li>
+            <li>Acted as technical liaison between enterprise clients and third-party providers (liquidity, pricing) — drove incident resolution directly rather than escalating</li>
+            <li>Led <strong>weekend server performance initiatives</strong> leveraging market downtime to run compression, log rotation, and housekeeping tasks — preventing silent disk I/O degradation without any latency impact during trading hours; coordinated scheduling to avoid I/O contention with backup windows</li>
           </ul>
+
+          <div class="exp-section-title">SRE Implementation & Incident Management</div>
+          <ul class="exp-bullets">
+            <li>Designed, presented, and contributed to implementing an <strong>SRE framework</strong> (monitoring, alerting, runbooks) based on Google SRE practices across teams — <strong>cut recurring incidents by 40% and MTTR by 30%</strong></li>
+            <li>Introduced <strong>chaos testing on development servers</strong> to replicate production failure scenarios — proactively surfacing failure modes before they reached live systems</li>
+            <li>Owned end-to-end incident response for financial transactions (<strong>3–5 incidents weekly</strong>), coordinating with external custodians and enterprise stakeholders</li>
+            <li>Performed <strong>20+ structured root cause analyses</strong>, documenting findings to build institutional knowledge and prevent recurrence</li>
+          </ul>
+
+          <div class="exp-section-title">Reliability & Operational Excellence</div>
+          <ul class="exp-bullets">
+            <li>Resolved critical transaction issues via system log analysis and retry optimisation — minimised downtime and financial exposure</li>
+            <li>Improved client communication flows, <strong>reducing resolution time by 30%</strong></li>
+            <li>Maintained platform stability during custodian outages through proactive cross-system verification and coordination</li>
+          </ul>
+
           <div class="exp-tags">
+            <span class="tag orange">AWS EC2/ECS/CloudWatch</span>
+            <span class="tag orange">Pulseway</span>
+            <span class="tag orange">PowerShell</span>
+            <span class="tag orange">MySQL</span>
+            <span class="tag orange">SRE Framework</span>
             <span class="tag orange">Incident Response</span>
-            <span class="tag orange">Trading Infrastructure</span>
-            <span class="tag orange">Runbooks</span>
-            <span class="tag orange">Post-Incident Reviews</span>
+            <span class="tag orange">Multi-AZ</span>
           </div>
         </div>
 
+        <!-- EXNESS -->
         <div class="exp-card">
           <div class="exp-top">
-            <span class="exp-role">Trading Support Engineer</span>
-            <span class="exp-period"><!-- e.g. 2020 – 2022 --></span>
+            <span class="exp-role">Trading Support Engineer (L2)</span>
+            <span class="exp-period">March 2023 – March 2024</span>
           </div>
           <div class="exp-company">Exness</div>
+
+          <div class="exp-section-title">Cross-Functional Infrastructure Projects</div>
           <ul class="exp-bullets">
-            <li>Supported MT4/MT5 trading platforms serving <strong>10,000+ concurrent users</strong> under high-volume market conditions</li>
-            <li>Built SQL-based investigation tooling that reduced trade discrepancy analysis time <strong>from hours to minutes</strong></li>
-            <li>Contributed to a zero-downtime migration of <strong>11,000+ trading accounts</strong> with no client-impacting incidents</li>
-            <li>Acted as technical escalation contact for enterprise client issues, liaising with infrastructure and development teams</li>
-            <li>Wrote diagnostic tooling and internal documentation adopted across the support organisation</li>
+            <li>
+              <strong>Account Migration (11,000 accounts):</strong> Led end-to-end migration across 8+ teams (compliance, anti-fraud, trading core, ops) — automated data sorting via Google Apps Script, ensured regulatory compliance, and achieved <strong>zero complaints</strong> while reducing server load
+            </li>
+            <li>
+              <strong>Custom Backoffice Interface:</strong> Partnered with product and engineering to replace direct server access for <strong>200+ internal users</strong> — delivered a new reporting/logs interface that <strong>cut production server load by 80%</strong> and freed L3 engineers for core infrastructure work
+            </li>
+            <li>
+              <strong>SQL Automation Tool:</strong> Built a custom SQL plugin allowing operations to query ClickHouse directly — <strong>removed 90% of backend dependencies</strong> and significantly accelerated client issue resolution
+            </li>
           </ul>
+
+          <div class="exp-section-title">Operational Experience</div>
+          <ul class="exp-bullets">
+            <li>Participated in <strong>3× weekly on-call rotations</strong> in high-pressure live trading environments</li>
+            <li>Developed deep experience in incident management, project execution, stakeholder communication, and cross-functional collaboration across global teams</li>
+          </ul>
+
           <div class="exp-tags">
-            <span class="tag orange">MT4/MT5</span>
-            <span class="tag orange">SQL Tooling</span>
-            <span class="tag orange">Zero-Downtime Migration</span>
-            <span class="tag orange">10K+ Concurrent Users</span>
+            <span class="tag orange">AWS</span>
+            <span class="tag orange">Azure</span>
+            <span class="tag orange">PagerDuty</span>
+            <span class="tag orange">Prometheus</span>
+            <span class="tag orange">ClickHouse</span>
+            <span class="tag orange">SQL Automation</span>
+            <span class="tag orange">On-Call</span>
           </div>
         </div>
 
@@ -478,10 +527,4 @@
       <div class="footer-links">
         <a href="https://github.com/ibraheemcisse" target="_blank">GitHub</a>
         <a href="https://linkedin.com/in/ibrahim-cisse-a2b6501a0/" target="_blank">LinkedIn</a>
-        <a href="mailto:ibrahim.umar.cisse@gmail.com">Email</a>
-      </div>
-    </footer>
-
-  </main>
-</body>
-</html>
+        <a href="/cdn-cgi/l/email-protection#f69f9484979e9f9bd8839b
